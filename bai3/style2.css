@@ -1,0 +1,82 @@
+h2 {
+    width: 500px;
+    text-transform: uppercase;
+    margin: 30px 0;
+    font-weight: 600;
+    border-bottom: 3px solid #000;
+    background-color: #FF9966;
+    font-size: 16px;
+    font-family: "Courier New",Courier, monospace;
+}
+table,th,td {
+    border: 1px solid #000;
+}
+
+table, tr, td, th{ 
+    border-collapse:separate; 
+    border:1px inset #3300FF!important;  
+    font-family:"Courier New", Courier, monospace; 
+    font-size:12px; 
+}
+
+table {
+    width:450px; 
+}
+
+h2 {
+    font-size: 30px;
+    background-color: #fff;
+    border-bottom:unset;
+    font-family: unset;
+}
+
+th {
+    padding: 20px 0;
+}
+
+th,
+tr td:first-child {
+    background-color: #660066;
+    color: #fff;
+}
+
+th:first-child,
+tr td:first-child {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+tr td:nth-child(2),
+tr td:nth-child(4)
+{
+    padding-right: 60px;
+}
+
+/* tr td:nth-child(3) {
+
+} */
+
+
+
+
+/* sgk */
+    /* table, tr, td, th{ 
+        border-collapse:separate; 
+        border:1px inset #3300FF; 
+        width:450px; 
+        font-family:"Courier New", Courier, monospace; 
+        font-size:12px; 
+    } 
+    table tr th{ 
+        background:#660066; 
+        color:#FFFFFF; 
+        height:50px; 
+        font-size:15px; 
+    } 
+    .canhgiua{ 
+        text-align:center; 
+        background:#660066; 
+        color:#FFFFFF; 
+        width:10%; 
+    }  */

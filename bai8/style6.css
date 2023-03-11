@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 50px 50px 0 50px;
+}
+
+.nav {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px 30px 10px 10px;
+    background-color: #000099;
+    border-top: 1px solid #305681;
+    border-bottom: 1px solid #305681;
+    border-left: 1px solid #000099;
+    border-right: 1px solid #000099;
+}
+
+li:hover {
+    background-color: #CC0000;
+}
+
+
+
